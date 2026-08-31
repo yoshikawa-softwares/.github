@@ -34,12 +34,6 @@
 
 <br>
 
-## 🔗 Links
-
-- 📢 **Canal do WhatsApp:** [whatsapp.com/channel/0029VbDCNZC0rGiOgmHwVf3K](https://whatsapp.com/channel/0029VbDCNZC0rGiOgmHwVf3K)
-- 🚀 **Alyka API:** [alyka-api.vercel.app](https://alyka-api.vercel.app)
-- 🌐 **Yoshikawa:** [yoshikawa.vercel.app](https://yoshikawa.vercel.app)
-
 ## 🛠️ Tecnologias
 
 <p>
@@ -49,8 +43,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-
-> ⚠️ Os projetos aqui são de **código fechado**. O uso, cópia ou redistribuição sem autorização não é permitido.
 
 <br>
 
