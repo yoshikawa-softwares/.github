@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://yoshikawa-bot.github.io/cache/images/e8f0d205.png" width="180" alt="Yoshikawa Softwares"/>
-  <h1>Yoshikawa Softwares</h1>
   <p><strong>softwares · serviços · ecossistema</strong></p>
 
   <p>
