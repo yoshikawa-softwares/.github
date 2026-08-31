@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <sub>© 2025 Yoshikawa Softwares · All rights reserved.</sub>
+  <sub>© 2026 Yoshikawa Softwares · All rights reserved.</sub>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa0ce&height=120&section=footer"/>
