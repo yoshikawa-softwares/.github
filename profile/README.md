@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://yoshikawa-bot.github.io/cache/images/99405b6a.jpg" width="140" alt="Yoshikawa Softwares">
+<img src="https://yoshikawa-bot.github.io/cache/images/e8f0d205.png" width="140" alt="Yoshikawa Softwares">
 
 # 𓍯𓂃𓏧♡ YOSHIKAWA SOFTWARES
 
@@ -27,7 +27,7 @@
 
 <td width="33%" align="center">
 
-<img src="https://yoshikawa-bot.github.io/cache/images/22e72147.jpg" width="90" alt="Yoshikawa ESM">
+<img src="https://yoshikawa-bot.github.io/cache/images/da329afb.png" width="90" alt="Yoshikawa ESM">
 
 ### Yoshikawa ESM
 
@@ -41,7 +41,7 @@ WhatsApp automation service built with **Node.js + JavaScript**.
 
 <td width="33%" align="center">
 
-<img src="https://yoshikawa-bot.github.io/cache/images/cc724cac.jpg" width="90" alt="Yoshikawa Streaming">
+<img src="https://yoshikawa-bot.github.io/cache/images/d8865dfb.png" width="90" alt="Yoshikawa Streaming">
 
 ### Yoshikawa Streaming
 
@@ -55,7 +55,7 @@ A free streaming platform for **movies, series and anime**.
 
 <td width="33%" align="center">
 
-<img src="https://yoshikawa-bot.github.io/cache/images/a59f39d0.jpg" width="90" alt="Alyka API">
+<img src="https://yoshikawa-bot.github.io/cache/images/f39fe4f6.png" width="90" alt="Alyka API">
 
 ### Alyka API
 
