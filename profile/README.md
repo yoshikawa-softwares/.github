@@ -13,7 +13,7 @@
   </p>
   
   <p>
-    Building tools, services and experiences that empower developers and users worldwide.
+    Building tools, services and experiences that empower developers and users.
   </p>
 </div>
 
