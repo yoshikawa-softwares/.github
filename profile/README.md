@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center"> 𓆩♡𓆪 YOSHIKAWA ESM </h2>
+<h2 align="center">Yoshikawa ESM </h2>
 
 <div align="center">
   <img src="https://yoshikawa-bot.github.io/cache/images/22e72147.jpg" width="180" style="border-radius: 30px; box-shadow: 0 8px 16px rgba(255,105,180,0.3);"/>
