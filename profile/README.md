@@ -33,10 +33,6 @@
 
 <br>
 
-<p>
-
-<br>
-
 <div align="center">
   <sub>© 2026 Yoshikawa Softwares · Todos os direitos reservados.</sub>
 </div>
