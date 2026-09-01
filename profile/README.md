@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://yoshikawa-bot.github.io/cache/images/e8f0d205.png" width="180" alt="Yoshikawa Softwares"/>
-  <p><strong>softwares · serviços · ecossistema</strong></p>
+  <p><strong>Yoshikawa Softwares</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Feito%20com-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
