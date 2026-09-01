@@ -15,7 +15,8 @@
   </p>
 
   <p>
-    Obrigado por utilizar nosso ecossistema. Experimente outras soluções ⬇️
+    Obrigado por utilizar nosso ecossistema.
+    Experimente outras soluções ⬇️
   </p>
 
   <p>
