@@ -20,7 +20,7 @@
 
   <p>
     <a href="https://whatsapp.com/channel/0029VbDCNZC0rGiOgmHwVf3K">
-      <img src="https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WhatsApp-Yoshikawa ESM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
     <a href="https://alyka-api.vercel.app">
       <img src="https://img.shields.io/badge/Alyka-API-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
