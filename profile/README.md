@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    Construindo um ecossistema ético, divertido e seguro para todos. Obrigado por utilizar nossos serviços.
+    Experimente nossas soluções ⬇️
   </p>
 
   <p>
